@@ -5,7 +5,9 @@
 - `content/` — the published markdown. `index.md` is the series page; `Meetings/` holds one page per meeting.
 - `site/` — Quartz v4, copied from PBOH's `site/` on 2026-10-04 (same dark-only look). Built by GitHub Actions on push (`.github/workflows/deploy.yml`, `npx quartz build -d ../content`).
 
-**Everything in this repo is public on GitHub**, including any file marked `publish: false` — that flag only keeps a page off the built site. Private planning lives in the vault at `teach/AI/Tokens on the Table/`, not here.
+- `notes/` — **not part of this repo.** It is its own **private** repo (`tokensonthetable/notes`), ignored here via `.gitignore`. Holds everything that used to be the vault's `teach/AI/` (moved 2026-10-04): the TOTT brief, This Not That, the QKB how-to, the retreat deck source (still built by the vault's `build-all.ps1`), the AGP recommendation. None of it is a webpage.
+
+**Everything else in this repo is public on GitHub**, including any file marked `publish: false` — that flag only keeps a page off the built site. Private material goes in `notes/`.
 
 Links to PBOH or the teach site must be full URLs (separate sites); wikilinks work only between pages inside `content/`. Inside a wikilink use the page name, never a path.
 
