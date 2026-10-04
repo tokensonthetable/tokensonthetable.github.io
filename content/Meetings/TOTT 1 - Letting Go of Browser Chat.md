@@ -42,7 +42,7 @@ This is where I've been building to.
 
 **Your own QKB.** There's real potential here for your teamwork and your classes, preproduction for example. A queryable knowledge base is a collection of your project's notes, plans, and research, organized so you can ask an AI questions about them. For a game team, that might mean asking *"What confused players in our last three playtests?"* or *"Why did we decide to cut that feature?"* and having the AI look through the team's own documents for answers. Those files stay available for you to read, revise, and share as the project grows, which gives future conversations a shared starting point. The AI can help you connect ideas and keep a record of decisions. You and your team still decide what to make.
 
-How to build one: [Queryable Knowledge Bases](https://peterbrinson.github.io/teach/AI/).
+How to build one: [[Queryable Knowledge Bases]].
 
 ### Yinuo: AI and video
 
