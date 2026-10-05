@@ -2,18 +2,21 @@
 title: "Tokens on the Table"
 ---
 
-An informal series at USC. Mondays at noon, open to any student who wants to come. No roster, no credit.
+**(Let's Put Our) Tokens on the Table.** 
 
-The name is the point: **let's all put our tokens on the table.** Students aren't incentivized to tell their instructors how much they actually use AI. Let's work on that. Be clear and honest first, and then show each other practices that hold up to one question:
+Are you using AI for game development and want to talk about it?
+You mostly work in the browser chat but have heard there are smarter ways to work?
+You hesitate to tell your professors about your AI use because you don't know what's ok?
 
-> **When you use AI, are you thinking more or thinking less, about what matters?**
+One question begins and ends our efforts:
+> **When you use AI, are you thinking more or thinking less - about what matters?**
 
 ## Meetings
 
-- **Monday, October 26, 12pm.** [[TOTT 1 - Letting Go of Browser Chat|Upgrading your AI use includes letting go of browser chat]]
+- **Monday, October 26, 12pm.** [[TOTT Meeting 1|Upgrading your AI use]]
 
 ## Topics
 
 What the meetings have covered, kept here afterward.
 
-- [[Queryable Knowledge Bases]] — a folder of your own notes, plans, and research that you can ask an AI questions about. What they are, the fundamentals, and an hour that teaches it by doing. *(Meeting 1)*
+- [[Queryable Knowledge Bases]] — a folder of your own notes, plans, and research that you can ask an AI questions about.  *(Meeting 1)*

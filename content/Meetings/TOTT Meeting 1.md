@@ -1,5 +1,5 @@
 ---
-title: "Meeting 1: Letting Go of Browser Chat"
+title: "Meeting 1: Your First Upgrades"
 ---
 
 **Monday, October 26, 12pm.** Part of [Tokens on the Table](https://tokensonthetable.github.io/).
@@ -8,33 +8,31 @@ title: "Meeting 1: Letting Go of Browser Chat"
 
 ### A few minutes before noon: This Not That
 
-The Unity editor is up on the projector, and Claude is building a level in front of us: placing, playing, stopping, adjusting. It's set up to read like a timelapse, with one tiny change every quarter second or so. A cube appears, then scoots to a nearby spot, then does it again.
+Prelude: This Not That - Claude builds levels for us. Can you guess the game genre?
 
-Everything is whiteboxed (plain grey shapes, no art), so as you walk in, the question is: **what game is it building?** It's harder to guess than it sounds.
 
-It keeps running a few minutes past noon.
+### Tokens on the Table
 
-### Tokens on the table
-
-The series' question, said out loud: *when you use AI, are you thinking more or thinking less, about what matters?* First we get honest about how we use AI. Then we look at practices that keep us thinking more.
+The grounding question: *when you use AI, are you thinking more or thinking less, about what matters?* 
 
 ### Letting go of browser chat
 
-The practices in this series replace chatting with an AI in a browser tab.
+*The practices in this series replace chatting with an AI in a browser tab.*
 
-And a related habit worth dropping: treating your chats (sessions) as your source. If you find yourself digging for a chat from last week because something valuable is in it, you're not doing this well.
+*And a related habit worth dropping: treating your chats (sessions) as your source. If you find yourself digging for a chat from last week because something valuable is in it, you're not doing this well.*
 
 ### The situation
 
-- **Engineering got there first.** Nearly all the attention so far has gone to programmers using persistent workspaces (an AI working inside a project folder) very well, to make software. Good.
+- **Engineering took advantage first first.** Nearly all the attention so far has gone to programmers using persistent workspaces (an AI working inside a project folder) very well, to make software. Good.
 - **Andrej Karpathy** brought the conversation to a much wider audience earlier this year with his [LLM wiki](https://medium.com/@urvvil08/andrej-karpathys-llm-wiki-create-your-own-knowledge-base-8779014accd5).
-- **Richard Xu**, a first-year grad student, keeps an extensive Obsidian vault. He'll give a brief demo.
+- **Richard Xu**, a first-year grad student, keeps an extensive Obsidian vault. Let's see what he's got. 
 
 ### Queryable knowledge bases
 
-This is where I've been building to.
 
-**What to call it.** "LLM wiki" and "LLM knowledge base" are OK. "Second brain" is terrible. Until one name takes the clear lead, I like QKB: **queryable knowledge base**.
+
+**What to call it.** You'll find "LLM wiki", "LLM knowledge base", "Second brain". 
+Until one name takes the clear lead, I like QKB: **queryable knowledge base**.
 
 **A small example.** Imagine a knowledge base on one region's home cooking. It's narrow enough that OpenAI or Anthropic will never train it into their models, and that's the point.
 
